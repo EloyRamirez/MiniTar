@@ -9,3 +9,5 @@ Using JLCPCB for manufacturing and assembly of SMT components.
 Soldering THT components myself.
 
 Using the Santroller Configurator to program RP2040 firmware.
+
+My reference for size is the Nintendo DS version of Guitar Hero which came with a controller attachment specifically for the Nintendo DS Lite that connects into the GBA port on the bottom to use the fret buttons. My goal being that the final product is less in volume than a Nintendo DS Lite 211.603cm^3.
