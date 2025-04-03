@@ -10,4 +10,7 @@ Soldering THT components myself.
 
 Using the Santroller Configurator to program RP2040 firmware.
 
-My reference for size is the Nintendo DS version of Guitar Hero which came with a controller attachment specifically for the Nintendo DS Lite that connects into the GBA port on the bottom to use the fret buttons. My goal being that the final product is less in volume than a Nintendo DS Lite 211.603cm^3.
+My reference for size is the Nintendo DS version of Guitar Hero which came with a controller attachment specifically for the Nintendo DS Lite that connects into the GBA port on the bottom to use the fret buttons. My goal being that the final product is less in volume than a Nintendo DS Lite 211,603mm^3.
+
+The case was modeled in Fusion 360 with a final volume of 38,031mm^3.
+Using JLC3DP for 3D printing.
