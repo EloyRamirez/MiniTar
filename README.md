@@ -14,3 +14,6 @@ My reference for size is the Nintendo DS version of Guitar Hero which came with 
 
 The case was modeled in Fusion 360 with a final volume of 38,031mm^3.
 Using JLC3DP for 3D printing.
+
+Future plans: Add gyro and wammy bar.
+
